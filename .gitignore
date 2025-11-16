@@ -1,0 +1,52 @@
+# Arquivos de ambiente
+.env
+.env.local
+.env.production
+
+# Arquivos de configuração sensíveis
+config.local.php
+/database/sessions.db
+
+# Logs
+/logs/*
+!.gitkeep
+
+# Backup de banco de dados
+*.db.backup
+*.sqlite.backup
+*.bak
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Cache
+.cache/
+*.tmp
+
+# Dependências do Composer (se adicionar posteriormente)
+/vendor/
+
+# Arquivos de upload (se necessário)
+/uploads/
+
+# Logs do PHP
+php_errors.log
+
+# Arquivos temporários do sistema
+*.session
+*.lock
+
+# Backup automático
+backup/
+*.backup
+
+# Arquivos de desenvolvimento
+*.dev.php
+*_dev.*
