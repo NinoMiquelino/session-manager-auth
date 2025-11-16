@@ -10,7 +10,7 @@
 
 ---
 
-# Session Manager - Sistema de Autenticação Segura
+# 🔐 Session Manager - Sistema de Autenticação Segura
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-8.0%2B-blue)
